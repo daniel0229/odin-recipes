@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: aquamarine;
+}
+.list{
+    font-size: 12px;
+    color: white;
+}
+.first{
+    font-weight: bold;
+}
+.second{
+    font-style: italic;
+}
+.third{
+    
+}
